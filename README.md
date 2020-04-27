@@ -3,4 +3,4 @@
 
 ![Image](./imgs/A1B2qmziDvS.gif)
 
-![Image](.imgs/faceanimation.gif)
+![Image](./imgs/faceanimation.gif)
