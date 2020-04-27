@@ -2,7 +2,7 @@
 
 You can use the [editor on GitHub](https://github.com/AIprogrammer/jiahangw.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 ### image and gif
-![Image](https://github.com/AIprogrammer/jiahangw.github.io/blob/master/vis_A1B2qmziDvS.gif)
+<!-- ![Image](https://github.com/AIprogrammer/jiahangw.github.io/blob/master/vis_A1B2qmziDvS.gif) -->
 
 ![Image](https://github.com/AIprogrammer/jiahangw.github.io/blob/master/face_animation.gif)
 
